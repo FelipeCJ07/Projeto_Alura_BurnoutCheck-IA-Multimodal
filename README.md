@@ -1,5 +1,8 @@
 # 🧠 BurnoutCheck IA - Check-in Multimodal Experimental
 
+[https://github.com/FelipeCJ07/Projeto_Alura_BurnoutCheck-IA-Multimodal/blob/main/presentation/BurnoutCheck%20IA%20-%20Check-in%20Multimodal%20Experimental.pptx](presentation/https://github.com/FelipeCJ07/Projeto_Alura_BurnoutCheck-IA-Multimodal/blob/main/presentation/BurnoutCheck%20IA%20-%20Check-in%20Multimodal%20Experimental.pptx.pptx)
+presentation/BurnoutCheck_IA_Apresentacao.pptx
+
 ## ✨ Projeto Extraordinário de Imersão em IA ✨
 
 Este projeto implementa uma ferramenta experimental de check-in de bem-estar que explora o poder da **Inteligência Artificial Multimodal** e técnicas de **Visão Computacional**. Desenvolvido como parte de um desafio de imersão em IA, o objetivo é criar um protótipo funcional que permite ao usuário realizar um "check-in" sobre seu estado emocional e físico, utilizando descrição textual e uma selfie, para receber uma análise **cautelosa e não-diagnóstica** gerada por IA.
