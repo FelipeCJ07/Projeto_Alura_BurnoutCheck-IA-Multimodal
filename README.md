@@ -1,7 +1,10 @@
 # 🧠 BurnoutCheck IA - Check-in Multimodal Experimental
 
-[https://github.com/FelipeCJ07/Projeto_Alura_BurnoutCheck-IA-Multimodal/blob/main/presentation/BurnoutCheck%20IA%20-%20Check-in%20Multimodal%20Experimental.pptx](presentation/https://github.com/FelipeCJ07/Projeto_Alura_BurnoutCheck-IA-Multimodal/blob/main/presentation/BurnoutCheck%20IA%20-%20Check-in%20Multimodal%20Experimental.pptx.pptx)
-presentation/BurnoutCheck_IA_Apresentacao.pptx
+## 📊 Apresentação do Projeto
+
+Você pode visualizar ou baixar os slides desta apresentação que detalha o projeto, suas funcionalidades e desafios:
+
+[Download/Visualizar Slides da Apresentação (.pptx)](presentation/BurnoutCheck_IA_Apresentacao.pptx)
 
 ## ✨ Projeto Extraordinário de Imersão em IA ✨
 
