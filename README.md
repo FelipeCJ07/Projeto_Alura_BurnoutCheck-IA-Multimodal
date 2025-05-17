@@ -10,7 +10,7 @@ Você pode visualizar ou baixar os slides desta apresentação que detalha o pro
 
 Este projeto implementa uma ferramenta experimental de check-in de bem-estar que explora o poder da **Inteligência Artificial Multimodal** e técnicas de **Visão Computacional**. Desenvolvido como parte de um desafio de imersão em IA, o objetivo é criar um protótipo funcional que permite ao usuário realizar um "check-in" sobre seu estado emocional e físico, utilizando descrição textual e uma selfie, para receber uma análise **cautelosa e não-diagnóstica** gerada por IA.
 
-O foco deste projeto foi alcançar um nível de excelência técnica e de apresentação digno de um protótipo de nível sênior, integrando diferentes domínios da IA.
+
 
 ---
 
