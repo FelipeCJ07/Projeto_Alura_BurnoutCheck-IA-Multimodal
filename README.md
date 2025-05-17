@@ -70,77 +70,74 @@ A célula 8 permanecerá em estado de execução para manter o servidor da inter
 
 Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo de execução:
 
-![1 - Importação de Bibliotecas no Colab](images/anexos/01_Importar_Bibliotecas.png)
+![1 - Importação de Bibliotecas no Colab](Images/anexos/01_Importar_Bibliotecas.png)
 
-![2 - Configuração da API Gemini](images/anexos/02_Configuracao_API_Gemini.png)
+![2 - Configuração da API Gemini](Images/anexos/02_Configuracao_API_Gemini.png)
 
-![3 - Funções Auxiliares (Imagem)](images/anexos/03_Funcoes_Auxiliares_Imagens.png)
+![3 - Funções Auxiliares (Imagem)](Images/anexos/03_Funcoes_Auxiliares_Imagens.png)
 
-![4 - Detecção Facial com OpenCV](images/anexos/04_Deteccao_Facial_OpenCV.png)
+![4 - Detecção Facial com OpenCV](Images/anexos/04_Deteccao_Facial_OpenCV.png)
 
-![5 - Pré-processamento de Imagem e Texto](images/anexos/05_Preprocessamento_Imagem_Texto.png)
+![5 - Pré-processamento de Imagem e Texto](Images/anexos/05_Preprocessamento_Imagem_Texto.png)
 
-![6 - Início da Função Process_Checkin](images/anexos/06_Inicio_Funcao_Process_Checkin.png)
+![6 - Início da Função Process_Checkin](Images/anexos/06_Inicio_Funcao_Process_Checkin.png)
 
-![7 - Processamento de Texto](images/anexos/07_Process_Checkin_Texto.png)
+![7 - Processamento de Texto](Images/anexos/07_Process_Checkin_Texto.png)
 
-![8 - Processamento de Imagem](images/anexos/08_Process_Checkin_Imagem.png)
+![8 - Processamento de Imagem](Images/anexos/08_Process_Checkin_Imagem.png)
 
-![9 - Processo de Checkin Multimodal](images/anexos/09_Process_Checkin_Multimodal.png)
+![9 - Processo de Checkin Multimodal](Images/anexos/09_Process_Checkin_Multimodal.png)
 
-![10 - Processo Checkin (Formatação)](images/anexos/10_Process_Checkin_Formatacao.png)
+![10 - Processo Checkin (Formatação)](Images/anexos/10_Process_Checkin_Formatacao.png)
 
-![11 - Funções Auxiliares (Formatação)](images/anexos/11_Funcoes_Auxiliares_Formatação.png)
+![11 - Funções Auxiliares (Formatação)](Images/anexos/11_Funcoes_Auxiliares_Formatação.png)
 
-![12 - Início da Interface Gradio](images/anexos/12_Inicio_Interface_Gradio.png)
+![12 - Início da Interface Gradio](Images/anexos/12_Inicio_Interface_Gradio.png)
 
-![13 - Estilos CSS da Interface](images/anexos/13_Estilos_CSS_Interface.png)
+![13 - Estilos CSS da Interface](Images/anexos/13_Estilos_CSS_Interface.png)
 
-![14 - Título e Descrição da Interface](images/anexos/14_Titulo_Descricao_Interface.png)
+![14 - Título e Descrição da Interface](Images/anexos/14_Titulo_Descricao_Interface.png)
 
-![15 - Componente de Entrada (Texto)](images/anexos/15_Componente_Entrada_Texto.png)
+![15 - Componente de Entrada (Texto)](Images/anexos/15_Componente_Entrada_Texto.png)
 
-![16 - Componente de Entrada (Imagem)](images/anexos/16_Componente_Entrada_Imagem.png)
+![16 - Componente de Entrada (Imagem)](Images/anexos/16_Componente_Entrada_Imagem.png)
 
-![17 - Botões de Ação](images/anexos/17_Botoes_Acao.png)
+![17 - Botões de Ação](Images/anexos/17_Botoes_Acao.png)
 
-![18 - Componentes de Saída](images/anexos/18_Componentes_Saida.png)
+![18 - Componentes de Saída](Images/anexos/18_Componentes_Saida.png)
 
-![19 - Componente de Histórico](images/anexos/19_Componente_Historico.png)
+![19 - Componente de Histórico](Images/anexos/19_Componente_Historico.png)
 
-![20 - Layout da Interface (Início)](images/anexos/20_Layout_Interface_Inicio.png)
+![20 - Layout da Interface (Início)](Images/anexos/20_Layout_Interface_Inicio.png)
 
-![21 - Layout Componentes de Entrada](images/anexos/21_Layout_Componentes_Entrada.png)
+![21 - Layout Componentes de Entrada](Images/anexos/21_Layout_Componentes_Entrada.png)
 
-![22 - Layout Botões de Ação](images/anexos/22_Layout_Botões_Acao.png)
+![22 - Layout Botões de Ação](Images/anexos/22_Layout_Botões_Acao.png)
 
-![23 - Layout Componentes de Saída](images/anexos/23_Layout_Componentes_Saida.png)
+![23 - Layout Componentes de Saída](Images/anexos/23_Layout_Componentes_Saida.png)
 
-![24 - Integração Processo Checkin Interface](images/anexos/24_Integracao_Process_Checkin_Interface.png)
+![24 - Integração Processo Checkin Interface](Images/anexos/24_Integracao_Process_Checkin_Interface.png)
 
-![25 - Process Checkin Continuação](images/anexos/25_Process_Checkin_Continuação.png)
+![25 - Process Checkin Continuação](Images/anexos/25_Process_Checkin_Continuação.png)
 
-![26 - Process Checkin Finalização](images/anexos/26_Process_Checkin_Finalizacao.png)
+![26 - Process Checkin Finalização](Images/anexos/26_Process_Checkin_Finalizacao.png)
 
-![27 - Vinculo Botao Enviar Funcao](images/anexos/27_Vinculo_Botao_Enviar_Funcao.png)
+![27 - Vinculo Botao Enviar Funcao](Images/anexos/27_Vinculo_Botao_Enviar_Funcao.png)
 
-![28 - Vinculo Botao Sair](images/anexos/28_Vinculo_Botao_Sair.png)
+![28 - Vinculo Botao Sair](Images/anexos/28_Vinculo_Botao_Sair.png)
 
-![29 - Configuração Lançamento Interface](images/anexos/29_Configuracao_Lancamento_Interface.png)
+![29 - Configuração Lançamento Interface](Images/anexos/29_Configuracao_Lancamento_Interface.png)
 
-![30 - Lançamento Interface Parte 1](images/anexos/30_Lancamento_Interface_Parte1.png)
+![30 - Lançamento Interface Parte 1](Images/anexos/30_Lancamento_Interface_Parte1.png)
 
-![31 - Lançamento Interface Parte 2](images/anexos/31_Lancamento_Interface_Parte2.png)
+![31 - Lançamento Interface Parte 2](Images/anexos/31_Lancamento_Interface_Parte2.png)
 
-![32 - Lançamento Interface Parte 3](images/anexos/32_Lancamento_Interface_Parte3.png)
+![32 - Lançamento Interface Parte 3](Images/anexos/32_Lancamento_Interface_Parte3.png)
 
-![33 - Lançamento Interface Parte 4](images/anexos/33_Lancamento_Interface_Parte4.png)
+![33 - Lançamento Interface Parte 4](Images/anexos/33_Lancamento_Interface_Parte4.png)
 
-![34 - Lançamento Interface Parte 5](images/anexos/34_Lancamento_Interface_Parte5.png)
+![34 - Lançamento Interface Parte 5](Images/anexos/34_Lancamento_Interface_Parte5.png)
 
-![35 - URL Pública Gerada](images/anexos/35_URL_Publica_Gerada.png)
+![35 - URL Pública Gerada](Images/anexos/35_URL_Publica_Gerada.png)
 
-![36 - Interface Final Funcionando](images/anexos/36_Interface_Final_Funcionando.png)
-
-
-
+![36 - Interface Final Funcionando](Images/anexos/36_Interface_Final_Funcionando.png)
