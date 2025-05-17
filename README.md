@@ -70,7 +70,7 @@ A célula 8 permanecerá em estado de execução para manter o servidor da inter
 
 Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo de execução:
 
-![1 - Importação de Bibliotecas no Colab](Images/anexos/01_Importar_Bibliotecas.png)
+![1 - Importação de Bibliotecas no Colab](Images/anexos/01_Importacao_Bibliotecas.png)
 
 ![2 - Configuração da API Gemini](Images/anexos/02_Configuracao_API_Gemini.png)
 
@@ -78,7 +78,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![4 - Detecção Facial com OpenCV](Images/anexos/04_Deteccao_Facial_OpenCV.png)
 
-![5 - Pré-processamento de Imagem e Texto](Images/anexos/05_Preprocessamento_Imagem_Texto.png)
+![5 - Pré-processamento de Imagem e Texto](Images/anexos/05_Preprocessamento_Imagens_Texto.png)
 
 ![6 - Início da Função Process_Checkin](Images/anexos/06_Inicio_Funcao_Process_Checkin.png)
 
@@ -90,7 +90,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![10 - Processo Checkin (Formatação)](Images/anexos/10_Process_Checkin_Formatacao.png)
 
-**![11 - Funções Auxiliares (Formatação)](Images/anexos/11_Funcoes_Auxiliares_Formatacao.png)** <--- CORRIGIDO: 'Formatacao' sem 'ç'
+![11 - Funções Auxiliares (Formatação)](Images/anexos/11_Funcoes_Auxiliares_Formatacao.png)
 
 ![12 - Início da Interface Gradio](Images/anexos/12_Inicio_Interface_Gradio.png)
 
@@ -102,7 +102,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![16 - Componente de Entrada (Imagem)](Images/anexos/16_Componente_Entrada_Imagem.png)
 
-**![17 - Botões de Ação](Images/anexos/17_Botões_Acao.png)** <--- CORRIGIDO: Nome do arquivo era 'Botões_Acao.png' no GitHub
+![17 - Botões de Ação](Images/anexos/17_Botoes_Acao.png)
 
 ![18 - Componentes de Saída](Images/anexos/18_Componentes_Saida.png)
 
@@ -118,7 +118,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![24 - Integração Processo Checkin Interface](Images/anexos/24_Integracao_Process_Checkin_Interface.png)
 
-**![25 - Process Checkin Continuação](Images/anexos/25_Process_Checkin_Continuaçao.png)** <--- CORRIGIDO: Nome do arquivo era 'Continuaçao.png' no GitHub
+![25 - Process Checkin Continuação](Images/anexos/25_Process_Checkin_Continuacao.png)
 
 ![26 - Process Checkin Finalização](Images/anexos/26_Process_Checkin_Finalizacao.png)
 
