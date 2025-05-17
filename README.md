@@ -90,7 +90,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![10 - Processo Checkin (Formatação)](Images/anexos/10_Process_Checkin_Formatacao.png)
 
-![11 - Funções Auxiliares (Formatação)](Images/anexos/11_Funcoes_Auxiliares_Formatação.png)
+**![11 - Funções Auxiliares (Formatação)](Images/anexos/11_Funcoes_Auxiliares_Formatacao.png)** <--- CORRIGIDO: 'Formatacao' sem 'ç'
 
 ![12 - Início da Interface Gradio](Images/anexos/12_Inicio_Interface_Gradio.png)
 
@@ -102,7 +102,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![16 - Componente de Entrada (Imagem)](Images/anexos/16_Componente_Entrada_Imagem.png)
 
-![17 - Botões de Ação](Images/anexos/17_Botões de Ação.png)
+**![17 - Botões de Ação](Images/anexos/17_Botões_Acao.png)** <--- CORRIGIDO: Nome do arquivo era 'Botões_Acao.png' no GitHub
 
 ![18 - Componentes de Saída](Images/anexos/18_Componentes_Saida.png)
 
@@ -112,13 +112,13 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![21 - Layout Componentes de Entrada](Images/anexos/21_Layout_Componentes_Entrada.png)
 
-**![22 - Layout Botões de Ação](Images/anexos/22_Layout_Botoes_Acao.png)** <--- ESTA LINHA FOI CORRIGIDA PARA USAR O NOME DO ARQUIVO SEM ACENTOS/TIL NO CAMINHO
+![22 - Layout Botões de Ação](Images/anexos/22_Layout_Botoes_Acao.png)
 
 ![23 - Layout Componentes de Saída](Images/anexos/23_Layout_Componentes_Saida.png)
 
 ![24 - Integração Processo Checkin Interface](Images/anexos/24_Integracao_Process_Checkin_Interface.png)
 
-![25 - Process Checkin Continuação](Images/anexos/25_Process_Checkin_Continuação.png)
+**![25 - Process Checkin Continuação](Images/anexos/25_Process_Checkin_Continuaçao.png)** <--- CORRIGIDO: Nome do arquivo era 'Continuaçao.png' no GitHub
 
 ![26 - Process Checkin Finalização](Images/anexos/26_Process_Checkin_Finalizacao.png)
 
