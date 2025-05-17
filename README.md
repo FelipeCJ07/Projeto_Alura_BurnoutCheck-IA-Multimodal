@@ -102,7 +102,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![16 - Componente de Entrada (Imagem)](Images/anexos/16_Componente_Entrada_Imagem.png)
 
-![17 - Botões de Ação](Images/anexos/17_Botoes_Acao.png)
+![17 - Botões de Ação](Images/anexos/17_Botões de Ação.png)
 
 ![18 - Componentes de Saída](Images/anexos/18_Componentes_Saida.png)
 
@@ -112,7 +112,7 @@ Aqui estão algumas capturas de tela da interface Gradio do projeto e do fluxo d
 
 ![21 - Layout Componentes de Entrada](Images/anexos/21_Layout_Componentes_Entrada.png)
 
-![22 - Layout Botões de Ação](Images/anexos/22_Layout_Botões_Acao.png)
+**![22 - Layout Botões de Ação](Images/anexos/22_Layout_Botoes_Acao.png)** <--- ESTA LINHA FOI CORRIGIDA PARA USAR O NOME DO ARQUIVO SEM ACENTOS/TIL NO CAMINHO
 
 ![23 - Layout Componentes de Saída](Images/anexos/23_Layout_Componentes_Saida.png)
 
